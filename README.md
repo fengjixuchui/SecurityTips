@@ -22,6 +22,7 @@ Socials: <a href="https://twitter.com/hackerscrolls" target="_blank">
   - [Testing 2FA](https://github.com/hackerscrolls/SecurityTips/blob/master/MindMaps/2FA_bugs.png)
   - [Testing OAuth](https://github.com/hackerscrolls/SecurityTips/blob/master/MindMaps/OAuth_bugs.png)
   - [Testing SSRF](https://github.com/hackerscrolls/SecurityTips/blob/master/MindMaps/SSRF.png)
+  - [Testing file upload](https://github.com/hackerscrolls/SecurityTips/blob/master/MindMaps/File_upload_bugs.png)
   - [iOS Security](https://github.com/hackerscrolls/SecurityTips/blob/master/MindMaps/iOS_Security.jpg)
   - [iOS for Bug Bounty](https://github.com/hackerscrolls/SecurityTips/blob/master/MindMaps/iOS_for_BugBounty.jpg)
 - **[Misc](https://github.com/hackerscrolls/SecurityTips/tree/master/Misc)**
@@ -44,6 +45,7 @@ Socials: <a href="https://twitter.com/hackerscrolls" target="_blank">
   - [Gateway Finder](https://github.com/hackerscrolls/SecurityTips/tree/master/Pentest.Redteam/Gateway_Finder.jpg)
   - [Sniffing SSH Passwords with 3Snake](https://github.com/hackerscrolls/SecurityTips/tree/master/Pentest.Redteam/Sniffing_SSH_Passwords_3Snake.jpg)
   - [Tunneling TCP Over DNS](https://github.com/hackerscrolls/SecurityTips/tree/master/Pentest.Redteam/Tunneling_Over_DNS.jpg)
+  - [SOCKS to the internal server - frp proxy](https://github.com/hackerscrolls/SecurityTips/tree/master/Pentest.Redteam/Socks_to_internal_network_Frp_Proxy.png)
 - **[Recon](https://github.com/hackerscrolls/SecurityTips/tree/master/Recon)**
   - [Dirsearch by Temp Extensions](https://github.com/hackerscrolls/SecurityTips/tree/master/Recon/Dirsearch_Like_A_Pro.jpg)
   - [Find IP Behind Cloud Firewall 1](https://github.com/hackerscrolls/SecurityTips/tree/master/Recon/Find_IP_behind_cloud_Firewall_1.png)
@@ -71,3 +73,4 @@ Socials: <a href="https://twitter.com/hackerscrolls" target="_blank">
   - [Bypassing 403 Restriction](https://github.com/hackerscrolls/SecurityTips/tree/master/Web/Bypass_403_Top_4.jpg)
   - [Insecure Deserialization](https://github.com/hackerscrolls/SecurityTips/tree/master/Web/Insecure_Deserialization.jpg)
   - [SSRF via PDF/Image Rendering](https://github.com/hackerscrolls/SecurityTips/tree/master/Web/Rendrer_PDF_Generators_SSRF.jpg)
+  - [Mass Assignment and Autobinding](https://github.com/hackerscrolls/SecurityTips/tree/master/Web/Mass_Assignment.png)
